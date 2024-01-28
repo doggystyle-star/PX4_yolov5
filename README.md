@@ -5,7 +5,7 @@
 [PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) and [xtdrone](https://github.com/robin-shaun/XTDrone)仿真平台,安装px4请参照[xtdrone仿真平台配置](https://www.yuque.com/xtdrone/manual_cn/basic_config_13)
 请确保满足[yolov5安装条件](https://github.com/ultralytics/yolov5)
 <div align="center">
-    <img src="pic/output.gif" width="1024" height="640"/>
+    <img src="pic/output.gif" width="1024" height="600"/>
 </div>
 
 ## 1. Prerequisites
