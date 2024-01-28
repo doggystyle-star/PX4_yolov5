@@ -124,7 +124,7 @@
 **关闭键盘控制，启动跟踪控制**
 ```
   cd ~/catkin_ws/src/PX4_yolov5/control/
-  python3 tracking_PID_500.py
+  python3 tracking_PID_500.py iris 0
 ```
 
 ## Reference
