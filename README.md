@@ -89,6 +89,7 @@
 
 * `cd ~/catkin_ws/src`
 * `mv PX4_yolov5/yolov5_ros /yolov5_ros`
+* `mv PX4_yolov5/detection_msgs /detection_msgs 
 * `cd ..`
 * `catkin_make`
 
